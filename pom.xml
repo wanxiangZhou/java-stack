@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.ghoul</groupId>
+    <artifactId>java-stack</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>摸金 - 关于Java后端技术栈的聚合服务工程</name>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>java-concurrency</module>
+    </modules>
+</project>
